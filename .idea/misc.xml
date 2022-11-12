@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-application/dzh-dongbao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-application/dzh-dongbao-portar-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-common/dzh-dongbao-common-base/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-common/dzh-dongbao-common-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-umsl/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-donbao-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-application/dzh-dongbao-portal-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-nms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-generator/dzh-dongbao-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/dzh-dongbao-ums-api/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

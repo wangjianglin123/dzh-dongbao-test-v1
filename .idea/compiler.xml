@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dzh-dongbao-pms-api" />
+        <module name="dzh-dongbao-common-utils" />
+        <module name="dzh-dongbao-oms-api" />
+        <module name="dzh-dongbao-portal-web" />
+        <module name="dzh-dongbao-cart" />
+        <module name="dzh-dongbao-cms" />
+        <module name="dzh-dongbao-ums-api" />
+        <module name="dzh-dongbao-dictionary-api" />
+        <module name="dzh-dongbao-common-base" />
+        <module name="dzh-dongbao-pay" />
+        <module name="dzh-dongbao-dictionary" />
+        <module name="dzh-dongbao-cart-api" />
+        <module name="dzh-dongbao-cms-api" />
+        <module name="dzh-dongbao-umsl" />
+        <module name="dzh-dongbao-sms-api" />
+        <module name="dzh-dongbao-pay-api" />
+        <module name="dzh-dongbao-sms" />
+        <module name="dzh-dongbao-manager-web" />
+        <module name="dzh-dongbao-oms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dzh-donbao-pms" target="1.8" />
+      <module name="dzh-dongbao-nms-api" target="1.8" />
+      <module name="dzh-dongbao-pms" target="1.8" />
+      <module name="dzh-dongbao-ums" target="1.8" />
+      <module name="dzh-dongbao-ums-apil" target="1.8" />
+      <module name="dzh-dongbao-ums1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dzh-donbao-pms" options="-parameters" />
+      <module name="dzh-dongbao-cart" options="-parameters" />
+      <module name="dzh-dongbao-cart-api" options="-parameters" />
+      <module name="dzh-dongbao-cms" options="-parameters" />
+      <module name="dzh-dongbao-cms-api" options="-parameters" />
+      <module name="dzh-dongbao-common-base" options="-parameters" />
+      <module name="dzh-dongbao-common-utils" options="-parameters" />
+      <module name="dzh-dongbao-dictionary" options="-parameters" />
+      <module name="dzh-dongbao-dictionary-api" options="-parameters" />
+      <module name="dzh-dongbao-manager-web" options="-parameters" />
+      <module name="dzh-dongbao-oms" options="-parameters" />
+      <module name="dzh-dongbao-oms-api" options="-parameters" />
+      <module name="dzh-dongbao-pay" options="-parameters" />
+      <module name="dzh-dongbao-pay-api" options="-parameters" />
+      <module name="dzh-dongbao-pms" options="-parameters" />
+      <module name="dzh-dongbao-pms-api" options="-parameters" />
+      <module name="dzh-dongbao-portal-web" options="-parameters" />
+      <module name="dzh-dongbao-service1" options="-parameters" />
+      <module name="dzh-dongbao-sms" options="-parameters" />
+      <module name="dzh-dongbao-sms-api" options="-parameters" />
+      <module name="dzh-dongbao-ums" options="-parameters" />
+      <module name="dzh-dongbao-ums-api" options="-parameters" />
+      <module name="dzh-dongbao-ums-apil" options="-parameters" />
+      <module name="dzh-dongbao-ums1" options="-parameters" />
+      <module name="dzh-dongbao-umsl" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../java/abo-idea/abo-idea/abo/repository/org/springframework/boot/spring-boot-starter-parent/2.4.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../java/abo-idea/abo-idea/abo/repository/org/springframework/boot/spring-boot-starter-parent/2.7.5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-cart-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-cms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-dictionary-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-oms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-pay-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-pms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-sms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-ums-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/dzh-dongbao-ums-apil/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-application/dzh-dongbao-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-application/dzh-dongbao-portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-common/dzh-dongbao-common-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-common/dzh-dongbao-common-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service/dzh-donbao-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-ums/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service/dzh-dongbao-ums1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-cms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-dictionary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-oms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/dzh-dongbao-umsl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dzh-dongbao-service1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
